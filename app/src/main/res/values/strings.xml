@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RetrofitAuth</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="site_key">6LfRIw4pAAAAAKrvHZdx1n0ZijFZJvUHCSH4QK7O</string>
+    <string name="user">User</string>
+    <string name="input_login">Input login</string>
+    <string name="input_password">Input password</string>
+    <string name="sign_in">Sign in</string>
+</resources>
